@@ -1,0 +1,8 @@
+Auto,Rector Motors,Rector Motor Car,dmv.ca.gov,Audi Financial Services
+Auto,Tire Dealer,Tire Center,Tire & Brake
+Auto,Progressive Insurance,Progressive West Insurance,Progressive Choice Insurance
+Earnings Statements,Earnings Statement
+Investments,Wells Fargo Investments,Wells Fargo Account Services,Standard Insurance Company
+Taxes,Internal Revenue Service
+Credit Cards,1-800-950-5114
+Manuals,Operating Tips

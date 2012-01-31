@@ -1,0 +1,11 @@
+A somewhat hackish way to go paperless with less drag
+
+1) Configure 'ScanSnap Manager.app' to save files to a ~/Pictures/Raw Scans/
+2) Configure 'FineReader for ScanSnap Preferences.app' to 'Delete scanned images...' and 'Quit ... after recognition'
+3) Install the com.lensu.watchocr.plist (but fix the paths first, important!) file in /Library/LaunchDaemons/ and then reboot (or wait, whatever.) 
+
+Refer to the 'config screenshots' folder for pictures of how I have my ScanSnap Manager and OCR programs configured.
+
+Scans land in Raw Scans, this WatchFolderForScanSnap.php file grabs them and then writes the OCR'd files off to Dropbox.
+
+Why bother? Because otherwise scanning blocks on OCR. I prefer to scan quickly and then go away, letting my machine process the OCR in the background and then upload when it's ready.
